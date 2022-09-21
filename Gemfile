@@ -1,0 +1,10 @@
+source 'http://rubygems.org'
+ruby '3.0.0'
+
+gem 'rubygems-update'
+gem 'bundler'
+gem 'sinatra'
+gem 'json', '~> 2.6.2'
+gem 'rspotify'
+gem 'unicorn'
+gem 'puma'
